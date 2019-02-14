@@ -2,7 +2,7 @@
 layout: post
 title:  "Title"
 date:   2007-01-27 18:44:11 +0800
-categories: ml
+categories: jekyll update
 ---
 
 ## code
